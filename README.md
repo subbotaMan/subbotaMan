@@ -3,4 +3,7 @@
 ## Обо мне
 - 💻 Учусь на фронтенд разработчика. 
 - 🎯 Цель: Найти свою первую работу.
-- 📚 Технологии: <bold>HTML</bold>
+- 📚 Технологии: HTML
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+разработчик;Люблю+создавать+крутые+проекты;Open+Source+энтузиаст" alt="Typing SVG" />
+</p>
