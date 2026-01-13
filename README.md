@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <p align="center">
-  <img src="https://readme-typing-svg.deno.dev?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+разработчик;Люблю+создавать+крутые+проекты;Open+Source+энтузиаст" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full-stack+разработчик;Люблю+создавать+крутые+проекты;Open+Source+энтузиаст" alt="Typing SVG" />
 </p>
 
 ## 📫 **Как со мной связаться:**
