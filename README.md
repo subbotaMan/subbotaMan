@@ -7,7 +7,7 @@
 - 📚 Технологии: <b>HTML, CSS(Tailwind CSS), JavaScript, React, Typescript. + Немного linux, nodeJS.</b>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=#D2691E&center=true&vCenter=true&width=1000&lines=Frontend+разработчик+второклассник;Люблю+создавать+цветные+странички+с+использованием+разных+символов;Бедолага+самоучка" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F4F4F&center=true&vCenter=true&width=600&lines=Frontend+разработчик+второклассник;Люблю+создавать+цветные+странички+с+использованием+разных+символов;Бедолага+самоучка" alt="Typing SVG" />
 </p>
 
 ## 📫 **Как со мной связаться:**
